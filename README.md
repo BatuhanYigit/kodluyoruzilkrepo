@@ -5,10 +5,19 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End eğitiminde ki ilk repo. İçeris
 ## Installation
 
 Öncellikle projeyi clonelayın.
+***
+```
+git clone https://github.com/BatuhanYigit/kodluyoruzilkrepo
+```
+## Usage
+Projeyi cloneladıktan sonra Visual Studio Code programından açınız
 
-'''python
-print("sadsad")
+Linux için:
 
-'''
+```
+cd kodluyoruzilkrepo
+code .
+```
 
-
+## Contributing
+Pull requestler kabul edilebilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
